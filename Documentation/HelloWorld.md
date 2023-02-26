@@ -1,0 +1,1 @@
+HelloWorld is a phrase used to introduce a computer program. The expression describes how to demonstrate programming language syntax or show that a language works. It is often the first program people write when learning a new language.
